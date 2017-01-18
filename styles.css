@@ -1,0 +1,22 @@
+body{
+		background-color: lightblue;
+	}
+	
+h1,h2,h3,h4{
+		text-align: center;	
+	}
+	
+table,th,td{
+		margin: auto;
+		border-collapse: collapse;
+		border: 1px solid black;
+		border-style: outset;
+	}
+	
+ p{
+	text-align: center;
+ }
+td{
+	text-align: center;
+	vertical-align: middle;
+}
